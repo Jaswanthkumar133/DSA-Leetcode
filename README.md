@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
