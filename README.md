@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
@@ -128,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
