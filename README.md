@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0151-reverse-words-in-a-string) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
