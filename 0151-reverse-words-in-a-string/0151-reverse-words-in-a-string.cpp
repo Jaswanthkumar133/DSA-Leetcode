@@ -1,8 +1,7 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        int n=s.size();
-        int i=n;
+        int i=s.size();
         string ans="";
         while(i>=0){
             while(i>=0 && s[i]==' '){
