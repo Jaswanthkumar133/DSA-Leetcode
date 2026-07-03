@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1903-largest-odd-number-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
