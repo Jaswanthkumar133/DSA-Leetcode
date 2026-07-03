@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1021-remove-outermost-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0242-valid-anagram) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
