@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
