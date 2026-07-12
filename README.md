@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0128-longest-consecutive-sequence) |
+| [2685-count-the-number-of-complete-components](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
@@ -211,5 +212,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/2685-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
