@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1331-rank-transform-of-an-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1331-rank-transform-of-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0242-valid-anagram) |
+| [1331-rank-transform-of-an-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0242-valid-anagram) |
+| [1331-rank-transform-of-an-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
