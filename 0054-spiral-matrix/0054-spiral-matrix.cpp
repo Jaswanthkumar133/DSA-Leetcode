@@ -1,33 +1,35 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        vector<int> temp;
-        int rowS = 0;
-        int colS = 0;
-        int rowE = matrix.size() - 1;
-        int colE = matrix[0].size() - 1;
-        while(colS<=colE && rowS<=rowE){
-            for(int i=colS;i<=colE;i++){
-                temp.push_back(matrix[rowS][i]);
+        vector<int>ans;
+        int n=matrix.size();
+        int m=matrix[0].size();
+        int rs=0;
+        int re=n-1;
+        int cs=0;
+        int ce=m-1;
+        while(rs<=re && cs<=ce){
+            for(int i=cs;i<=ce;i++){
+                ans.push_back(matrix[rs][i]);
             }
-            rowS++;
-            for(int i=rowS;i<=rowE;i++){
-                temp.push_back(matrix[i][colE]);
+            rs++;
+            for(int i=rs;i<=re;i++){
+                ans.push_back(matrix[i][ce]);
             }
-            colE--;
-            if(rowS<=rowE){
-                for(int i=colE;i>=colS;i--){
-                    temp.push_back(matrix[rowE][i]);
+            ce--;
+            if(rs<=re){
+                for(int i=ce;i>=cs;i--){
+                    ans.push_back(matrix[re][i]);
                 }
-                rowE--;
+                re--;
             }
-            if(colS<=colE){
-                for(int i=rowE;i>=rowS;i--){
-                    temp.push_back(matrix[i][colS]);
+            if(cs<=ce){
+                for(int i=re;i>=rs;i--){
+                    ans.push_back(matrix[i][cs]);
                 }
-                colS++;
+                cs++;
             }
         }
-        return temp;
+        return ans;
     }
 };
