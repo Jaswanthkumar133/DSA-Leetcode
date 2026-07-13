@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1291-sequential-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
