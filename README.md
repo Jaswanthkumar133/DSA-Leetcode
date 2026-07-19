@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0283-move-zeroes) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
