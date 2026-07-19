@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1331-rank-transform-of-an-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1004-max-consecutive-ones-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -258,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
