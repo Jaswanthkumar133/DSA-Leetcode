@@ -1,16 +1,20 @@
 class Solution {
 public:
+    int helper(vector<int>nums,int mid){
+        int count=0;
+        for(int i:nums){
+            count+=(i+mid-1)/mid;
+        }
+        return count;
+    }
     int smallestDivisor(vector<int>& nums, int threshold) {
-        int low = 1;
-        int high = *max_element(nums.begin(), nums.end());
-        int ans=high;
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            long long count = 0;
-            for (int i : nums) {
-                count += (i + mid - 1) / mid;
-            }
-            if(count<=threshold){
+        int low=1;
+        int high=*max_element(nums.begin(),nums.end());
+        int ans=-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            int temp=helper(nums,mid);
+            if(temp<=threshold){
                 ans=mid;
                 high=mid-1;
             }else{
