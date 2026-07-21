@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1903-largest-odd-number-in-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0992-subarrays-with-k-different-integers) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
@@ -294,4 +298,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1004-max-consecutive-ones-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
