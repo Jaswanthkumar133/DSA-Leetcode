@@ -1,28 +1,28 @@
 class Solution {
 public:
-     int countdays(vector<int>&weights,int maxi){
-        int days=1;
-        long long sum=0;
+    int helper(vector<int>&weights,int days,int mid){
+        int temp=0;
+        long long ans=0;
         for(int i:weights){
-            if(sum+i<=maxi){
-                sum+=i;
+            if(ans+i>mid){
+                temp++;
+                ans=i;
             }else{
-                days++;
-                sum=i;
+                ans+=i;
             }
         }
-        return days;
-     }
+        if(ans!=0){
+            temp++;
+        }
+        return temp;
+    }
     int shipWithinDays(vector<int>& weights, int days) {
         long long low=*max_element(weights.begin(),weights.end());
-        long long high=0;
-        for(int i:weights){
-            high+=i;
-        }
+        long long high=accumulate(weights.begin(),weights.end(),0LL);
         int ans=high;
         while(low<=high){
-            long long mid=low+(high-low)/2;
-            int temp=countdays(weights,mid);
+            int mid=low+(high-low)/2;
+            int temp=helper(weights,days,mid);
             if(temp<=days){
                 ans=mid;
                 high=mid-1;
