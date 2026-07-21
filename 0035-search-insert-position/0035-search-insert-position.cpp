@@ -9,8 +9,7 @@ public:
             if(nums[mid]>=target){
                 ans=mid;
                 high=mid-1;
-            }
-            else{
+            }else{
                 low=mid+1;
             }
         }
