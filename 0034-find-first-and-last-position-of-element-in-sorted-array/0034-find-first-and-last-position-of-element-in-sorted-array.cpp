@@ -1,16 +1,15 @@
 class Solution {
 public:
-    int firstOccurance(vector<int>&nums,int target){
+    int firstOccurance(vector<int>arr,int target){
         int ans=-1;
         int low=0;
-        int high=nums.size()-1;
+        int high=arr.size()-1;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(nums[mid]==target){
+            if(arr[mid]==target){
                 ans=mid;
                 high=mid-1;
-            }
-            else if(nums[mid]<target){
+            }else if(arr[mid]<target){
                 low=mid+1;
             }else{
                 high=mid-1;
@@ -18,18 +17,16 @@ public:
         }
         return ans;
     }
-
-    int lastOccurance(vector<int>&nums,int target){
-        int ans=-1;
+    int secondOccurance(vector<int>&arr,int target){
         int low=0;
-        int high=nums.size()-1;
+        int high=arr.size()-1;
+        int ans=-1;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(nums[mid]==target){
+            if(arr[mid]==target){
                 ans=mid;
                 low=mid+1;
-            }
-            else if(nums[mid]<target){
+            }else if(arr[mid]<target){
                 low=mid+1;
             }else{
                 high=mid-1;
@@ -42,7 +39,7 @@ public:
         if(first==-1){
             return {-1,-1};
         }
-        int last=lastOccurance(nums,target);
-        return {first,last};
+        int second=secondOccurance(nums,target);
+        return {first,second};
     }
 };
