@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0713-subarray-product-less-than-k) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0724-find-pivot-index) |
