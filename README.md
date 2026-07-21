@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1922-count-good-numbers) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
