@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1922-count-good-numbers) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3536-maximum-product-of-two-digits](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
