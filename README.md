@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0704-binary-search) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0992-subarrays-with-k-different-integers) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
