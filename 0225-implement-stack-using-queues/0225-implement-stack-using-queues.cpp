@@ -25,11 +25,14 @@ public:
     }
     
     int top() {
+        if(q.empty()){
+            return -1;
+        }
         return q.front();
     }
     
     bool empty() {
-        return q.size()==0;
+        return q.empty();
     }
 };
 
