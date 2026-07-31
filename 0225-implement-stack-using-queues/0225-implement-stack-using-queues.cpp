@@ -25,9 +25,6 @@ public:
     }
     
     int top() {
-        if(q.empty()){
-            return -1;
-        }
         return q.front();
     }
     
