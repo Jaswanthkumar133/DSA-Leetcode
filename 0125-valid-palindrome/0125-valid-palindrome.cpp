@@ -6,8 +6,7 @@ public:
         while(low<=high){
             if(!isalnum(s[low])){
                 low++;
-            }
-            else if(!isalnum(s[high])){
+            }else if(!isalnum(s[high])){
                 high--;
             }else{
                 if(tolower(s[low])!=tolower(s[high])){
@@ -18,6 +17,6 @@ public:
                 }
             }
         }
-        return 1;
+        return true;
     }
 };
