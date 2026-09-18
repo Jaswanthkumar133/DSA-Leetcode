@@ -341,4 +341,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0020-valid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
