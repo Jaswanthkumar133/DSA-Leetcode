@@ -4,9 +4,9 @@ public:
         if(x<0){
             return false;
         }
-        int temp=x;
         long long ans=0;
-        while(temp>0){
+        int temp=x;
+        while(temp){
             int ls=temp%10;
             ans=ans*10+ls;
             temp/=10;
