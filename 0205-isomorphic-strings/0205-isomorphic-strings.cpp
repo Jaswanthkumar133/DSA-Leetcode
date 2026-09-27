@@ -4,20 +4,24 @@ public:
         if(s.size()!=t.size()){
             return false;
         }
-        unordered_map<char,char>stoT;
-        unordered_map<char,char>ttoS;
+        unordered_map<char,int>sMt;
+        unordered_map<char,int>tMs;
         for(int i=0;i<s.size();i++){
-            if(stoT[s[i]]==0){
-                stoT[s[i]]=t[i];
-            };
-            if(stoT[s[i]]!=t[i]){
-                return false;
+            if(sMt.find(s[i])==sMt.end()){
+                sMt[s[i]]=t[i];
             }
-            if(ttoS[t[i]]==0){
-                ttoS[t[i]]=s[i];
+            if(sMt.find(s[i])!=sMt.end()){
+                if(sMt[s[i]]!=t[i]){
+                    return false;
+                }
             }
-            if(ttoS[t[i]]!=s[i]){
-                return false;
+            if(tMs.find(t[i])==tMs.end()){
+                tMs[t[i]]=s[i];
+            }
+            if(tMs.find(t[i])!=tMs.end()){
+                if(tMs[t[i]]!=s[i]){
+                    return false;
+                }
             }
         }
         return true;
