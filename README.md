@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1922-count-good-numbers) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0229-majority-element-ii) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/1291-sequential-digits) |
 ## Prefix Sum
 |  |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0204-count-primes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -362,4 +366,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0014-longest-common-prefix) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Jaswanthkumar133/DSA-Prep/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
