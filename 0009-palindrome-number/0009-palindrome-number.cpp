@@ -4,14 +4,17 @@ public:
         if(x<0){
             return false;
         }
-        long long ans=0;
         int temp=x;
-        while(temp){
-            int ls=temp%10;
+        int ans=0;
+        while(x!=0){
+            int ls=x%10;
+            if(ans>INT_MAX/10 || ans<INT_MIN/10){
+                return false;
+            }
             ans=ans*10+ls;
-            temp/=10;
+            x/=10;
         }
-        if(ans==x){
+        if(ans==temp){
             return true;
         }
         return false;
