@@ -1,10 +1,10 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int count1=0;
-        int count2=0;
         int ele1=-1;
         int ele2=-1;
+        int count1=0;
+        int count2=0;
         for(int i=0;i<nums.size();i++){
             if(nums[i]==ele1){
                 count1++;
@@ -30,13 +30,13 @@ public:
                 count2++;
             }
         }
-        vector<int>temp;
-        if(count1>=nums.size()/3+1){
-            temp.push_back(ele1);
+        vector<int>res;
+        if(count1>=(nums.size()/3)+1){
+            res.push_back(ele1);
         }
-        if(count2>=nums.size()/3+1){
-            temp.push_back(ele2);
+        if(count2>=(nums.size()/3)+1){
+            res.push_back(ele2);
         }
-        return temp;
+        return res;
     }
 };
