@@ -5,11 +5,11 @@ public:
         int maxi=0;
         for(int i:st){
             if(st.find(i-1)==st.end()){
+                int key=i;
                 int count=1;
-                int it=i;
-                while(st.find(it+1)!=st.end()){
-                    it+=1;
-                    count+=1;
+                while(st.find(key+1)!=st.end()){
+                    count++;
+                    key+=1;
                 }
                 maxi=max(maxi,count);
             }
